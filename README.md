@@ -35,7 +35,7 @@ It can benefit my full-stack app by having a unified access point to route all m
 
 #Part 3
 
-Could you tell us a little more about the reverse proxy self domain? You began the topic last session but I don’t think we ever got any more detail on it.
+Could you tell us a little more about the reverse proxy self domain, or hw your app benefits from it/utilizes it? You began the topic last session but I don’t think we ever got any more detail on it.
 
 What are the differences of using a static IP versus a dynamic IP for a company’s infrastructure in regards to accessibility and security?
 
